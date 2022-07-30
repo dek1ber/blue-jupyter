@@ -23,7 +23,7 @@ $ pip3 install jupyter
 ```
 Clone and enter the directory:
 ```
-$ git clone https://github.com/mttaggart/blue-jupyter.git && cd blue-jupyter
+$ git clone https://github.com/dek1ber/blue-jupyter.git && cd blue-jupyter
 ```
 If you don't have it already, install `poetry`:
 ```
